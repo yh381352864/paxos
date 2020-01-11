@@ -1,7 +1,7 @@
 package com.paxos.test;
 /**
- * fshows.com
- * Copyright (C) 2013-2020 All Rights Reserved.
+ * yanghao
+ * Copyright (C) 2020-2030 All Rights Reserved.
  */
 
 import com.paxos.bean.Acceptor;
